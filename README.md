@@ -1,20 +1,6 @@
-<pre><code>
-   ^
-  / \
- /   \
-/     \
-|  |  |
-|  |  |
-\  \  /
- \  \/
- /\  \
-/  \  \
-|  |  |
-|  |  |
-\     /
- \   /
-  \ /
-   v
-<pre><code>
+### carloscaez.com
 
-Felipe <3
+
+
+I do commissions sometimes. I don't feel like drafting anything crazy right now.
+
